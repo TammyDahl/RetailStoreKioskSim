@@ -1,9 +1,9 @@
 # Clothing Store Point of Sale System  
-*Software Design Project | SDSU CS 320 – Software Engineering*
+*Software Design Project | SDSU CS 250 – Intro to Software Systems*
 
 ## Overview
 
-This project was developed as part of a group assignment for CS 320: Software Engineering at San Diego State University. Our goal was to design a functional and scalable **Point of Sale (POS) system** for a multi-location clothing retailer. The system supports daily retail operations—such as inventory tracking, transaction processing, user management, and data synchronization across store locations—while offering separate interfaces for employees and admins.
+This project was developed as part of a group assignment for CS 250: Intro to Software Systems at San Diego State University. Our goal was to design a functional and scalable **Point of Sale (POS) system** for a multi-location clothing retailer. The system supports daily retail operations—such as inventory tracking, transaction processing, user management, and data synchronization across store locations—while offering separate interfaces for employees and admins.
 
 While this project focuses on software architecture, it reflects my broader interest in how structured systems manage and surface data. I’ve included it in my portfolio because it demonstrates my ability to work collaboratively on technical design, model real-world business operations, and think through the data structures that power applications.
 
