@@ -1,11 +1,11 @@
 # Clothing Store Point of Sale System  
-*Software Design Project | SDSU CS 250 – Intro to Software Systems*
+*Collaborative Project | SDSU CS 250 – Intro to Software Systems*
 
 ## Overview
 
-This project was developed as part of a group assignment for CS 250: Intro to Software Systems at San Diego State University. Our goal was to design a functional and scalable **Point of Sale (POS) system** for a multi-location clothing retailer. The system supports daily retail operations—such as inventory tracking, transaction processing, user management, and data synchronization across store locations—while offering separate interfaces for employees and admins.
+This group project involved designing and documenting a point-of-sale (POS) system for a multi-location clothing store, along with building a working kiosk simulation to model its behavior. As a team, we developed a complete software design specification including UML class diagrams, a software architecture diagram, an entity relationship diagram (ERD), a full data dictionary, and detailed unit/integration/system test plans. I contributed to both the design and implementation phases, with a focus on defining the data structures, user roles, and transaction logic.
 
-While this project focuses on software architecture, it reflects my broader interest in how structured systems manage and surface data. I’ve included it in my portfolio because it demonstrates my ability to work collaboratively on technical design, model real-world business operations, and think through the data structures that power applications.
+The corresponding kiosk simulation, built in Java, models real-world retail interactions such as login, inventory lookup, item scanning, and return processing. This project showcases my ability to work collaboratively on system design, think through business logic, and model structured, transactional workflows—key skills in data systems design, product analytics, and retail data infrastructure.
 
 ## Key Contributions
 
