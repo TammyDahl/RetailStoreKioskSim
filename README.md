@@ -1,6 +1,8 @@
 # Clothing Store Point of Sale System  
 *Collaborative Project | SDSU CS 250 – Intro to Software Systems*
 
+Team Members: Tammy Dahl, Stephen Pun, and Jared Robles
+
 ## Overview
 
 This group project involved designing and documenting a point-of-sale (POS) system for a multi-location clothing store, along with building a working kiosk simulation to model its behavior. As a team, we developed a complete software design specification including UML class diagrams, a software architecture diagram, an entity relationship diagram (ERD), a full data dictionary, and detailed unit/integration/system test plans. I contributed to both the design and implementation phases, with a focus on defining the data structures, user roles, and transaction logic.
